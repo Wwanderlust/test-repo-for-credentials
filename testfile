@@ -1,0 +1,8 @@
+cat testfile
+exit
+excat testfile
+exit
+excat testfile
+exit
+exit testfile
+
